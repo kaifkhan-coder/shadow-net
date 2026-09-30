@@ -1,0 +1,11 @@
+{
+  "name": "Shadow-Net",
+  "description": "Zero-Internet Emergency Micro-Routing & Encrypted Peer-to-Peer Tactical Mesh Network.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
